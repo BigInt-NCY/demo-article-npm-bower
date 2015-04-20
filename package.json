@@ -1,0 +1,22 @@
+{
+  "name": "demo-article-npm-bower",
+  "version": "0.0.1",
+  "description": "A directive demo explaining how to register a module",
+  "main": "js/demo.directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigInt-NCY/demo-article-npm-bower.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Alexandre Nucera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BigInt-NCY/demo-article-npm-bower/issues"
+  },
+  "homepage": "https://github.com/BigInt-NCY/demo-article-npm-bower"
+}

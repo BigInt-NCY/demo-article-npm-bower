@@ -1,0 +1,25 @@
+{
+  "name": "demo-article-npm-bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BigInt-NCY/demo-article-npm-bower",
+  "description": "A demo repo related to an artricle explaining how to publish a module on npm and bower",
+  "main": "js/demo.directive.js",
+  "keywords": [
+    "demo",
+    "angular"
+  ],
+  "authors": [
+    "Alexandre Nucera"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"angular": ">= 1.3.0"
+  }
+}
